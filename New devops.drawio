@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T17:17:51.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="-SMFnazXBRTBsfeQ5vP1" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T17:21:58.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="_o8254iMGH-sNlCLDSeN" version="21.5.2" type="github">
   <diagram id="gh_o_lpHXWe0CsL5JwtT" name="Page-5">
     <mxGraphModel dx="2659" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -274,6 +274,20 @@
         </mxCell>
         <mxCell id="cnB-zLGK9fxYCT0zUkFn-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Deploy&lt;/font&gt;&lt;/b&gt;" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=deploy" vertex="1" parent="1">
           <mxGeometry x="866" y="97.67" width="140" height="92.33" as="geometry" />
+        </mxCell>
+        <mxCell id="cnB-zLGK9fxYCT0zUkFn-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;strokeWidth=3;" edge="1" parent="1" source="iS_lAgMV6HT_gIUCYMhQ-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="600" as="sourcePoint" />
+            <mxPoint x="930" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnB-zLGK9fxYCT0zUkFn-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Success&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cnB-zLGK9fxYCT0zUkFn-20">
+          <mxGeometry x="0.0501" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnB-zLGK9fxYCT0zUkFn-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Merge Release Branch to Master/Main branch&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="854.2" y="620" width="153.8" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
