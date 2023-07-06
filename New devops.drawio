@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T10:33:19.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="KSwxFh091aUsGEHCcAlH" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T10:35:35.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="gcL-j2bXNI8gW9d9aWMk" version="21.5.2" type="github">
   <diagram id="gh_o_lpHXWe0CsL5JwtT" name="Page-5">
     <mxGraphModel dx="2908" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,22 +59,22 @@
           <mxGeometry x="-125" y="591" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WtAJ188L4nBXC0D4zyrd-21" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" parent="1" vertex="1">
-          <mxGeometry x="107.5" y="151" width="45" height="50" as="geometry" />
+          <mxGeometry x="107.5" y="139" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WtAJ188L4nBXC0D4zyrd-22" value="Azure Version controller&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="155.5" y="161" width="100" height="30" as="geometry" />
+          <mxGeometry x="155.5" y="149" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WtAJ188L4nBXC0D4zyrd-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" parent="1" vertex="1">
-          <mxGeometry x="95.5" y="211" width="50" height="50" as="geometry" />
+          <mxGeometry x="95.5" y="199" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WtAJ188L4nBXC0D4zyrd-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" parent="1" vertex="1">
-          <mxGeometry x="194.5" y="211" width="50" height="50" as="geometry" />
+          <mxGeometry x="194.5" y="199" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WtAJ188L4nBXC0D4zyrd-26" value="" style="shape=mxgraph.cisco.misc.content_transformation_engine_(cte);html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="145.5" y="216" width="50" height="40" as="geometry" />
+          <mxGeometry x="145.5" y="204" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WtAJ188L4nBXC0D4zyrd-27" value="Code review" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="123" y="271" width="95" height="30" as="geometry" />
+          <mxGeometry x="123" y="259" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WtAJ188L4nBXC0D4zyrd-39" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry y="311" width="320" height="170" as="geometry" />
