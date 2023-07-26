@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T06:48:57.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="YSXR9RN8He0rfTR9msrW" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T09:21:39.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="rQNmP8M7tuboKmyTCSR4" version="21.6.3" type="github">
   <diagram name="Page-1" id="O_dgv5PMAXWbRJS-o9nY">
     <mxGraphModel dx="995" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4wYF7_ush7LYyuIkAoUI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="14.17" y="80" width="120" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="b37KVjyUx03dqxBLBACt-1" value="Admin Portal" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="46" y="150" width="56.34" height="40" as="geometry" />
         </mxCell>
@@ -115,8 +118,11 @@
         <mxCell id="b37KVjyUx03dqxBLBACt-62" value="AWS cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="402" y="366" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b37KVjyUx03dqxBLBACt-63" value="Spovix Application Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;gradientColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="b37KVjyUx03dqxBLBACt-63" value="Spovix Application Architecture" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="346" y="417" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4wYF7_ush7LYyuIkAoUI-4" value="Clients" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42.34" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
